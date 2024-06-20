@@ -14,3 +14,6 @@ idoop/zentao
 wiznote/wizserver
 registry.cn-beijing.aliyuncs.com/dotbalo/krm-backend:latest
 registry.cn-beijing.aliyuncs.com/dotbalo/krm-frontend:latest
+tomcat
+mysql:8.0.44
+redis
