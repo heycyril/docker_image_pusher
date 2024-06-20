@@ -17,7 +17,7 @@ registry.cn-beijing.aliyuncs.com/dotbalo/krm-frontend:latest
 tomcat
 redis
 gitlab/gitlab-ce
-jenkins
+jenkins:2.60.3
 mysql:8
 mysql:5.7.44
 nextcloud
@@ -39,3 +39,6 @@ debian
 golang
 maven
 busybox
+grafana/loki
+grafana/grafana
+grafana/k6
