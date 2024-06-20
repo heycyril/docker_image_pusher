@@ -16,5 +16,7 @@ registry.cn-beijing.aliyuncs.com/dotbalo/krm-backend:latest
 registry.cn-beijing.aliyuncs.com/dotbalo/krm-frontend:latest
 tomcat
 redis
+gitlab/gitlab-ce
+jenkins
 mysql:8
 mysql:5.7.44
