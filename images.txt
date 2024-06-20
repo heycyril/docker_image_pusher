@@ -8,7 +8,7 @@ python:alpine3.19
 fujuage/fujufrp:x86
 filebrowser/filebrowser
 cloudreve/cloudreve
-bitwardenrs/server
+bitwardenrs/server:latest
 chishin/nginx-proxy-manager-zh
 idoop/zentao
 wiznote/wizserver
