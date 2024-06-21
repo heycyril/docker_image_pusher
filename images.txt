@@ -24,7 +24,6 @@ nextcloud
 wordpress
 haproxy
 zookeeper
-java
 openjdk
 caddy
 logstash
