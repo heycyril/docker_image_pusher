@@ -22,7 +22,6 @@ mysql:8
 mysql:5.7.44
 nextcloud
 wordpress
-elasticsearch
 haproxy
 zookeeper
 java
