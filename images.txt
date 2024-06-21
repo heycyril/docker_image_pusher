@@ -26,7 +26,6 @@ haproxy
 zookeeper
 openjdk
 caddy
-logstash
 kong
 kibana
 owncloud
