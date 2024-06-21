@@ -27,7 +27,6 @@ zookeeper
 openjdk
 caddy
 kong
-kibana
 owncloud
 rockylinux
 centos
