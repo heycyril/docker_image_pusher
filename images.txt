@@ -28,7 +28,7 @@ openjdk
 caddy
 kong
 owncloud
-centos
+#centos
 ubuntu
 debian
 golang
