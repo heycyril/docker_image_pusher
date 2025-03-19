@@ -40,3 +40,4 @@ grafana/k6
 elasticsearch:7.17.13
 #20240621
 mysql:8.0.37
+gitea
