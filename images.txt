@@ -18,7 +18,7 @@ tomcat
 redis
 gitlab/gitlab-ce
 jenkins:2.60.3
-mysql:8
+gitea/gitea
 mysql:5.7.44
 nextcloud
 wordpress
