@@ -1,1 +1,1 @@
-gitea/gitea:latest
+prom/prometheus:latest
