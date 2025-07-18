@@ -1,1 +1,1 @@
-prom/prometheus:latest
+cloudflare/cloudflared:latest
