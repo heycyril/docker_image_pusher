@@ -1,1 +1,1 @@
-greatsqlsh greatsql/greatsql_shell
+greatsql/greatsql_shell
