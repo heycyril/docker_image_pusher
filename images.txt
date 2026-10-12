@@ -1,1 +1,1 @@
-drakkan/sftpgo:v2.6
+--platform linux/arm64 drakkan/sftpgo:v2.6
