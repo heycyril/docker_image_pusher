@@ -1,1 +1,1 @@
-malaohu/mobaxterm-genkey
+drakkan/sftpgo:v2.6
